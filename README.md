@@ -1,5 +1,5 @@
 # Word-Name-Generator
-Generates readable(term used lightly, WIP) words or names based on input(length) * how many to generate.
+Generates readable(term used lightly, WIP) words, names, aliases or usernames based on input(length) * how many to generate..
 
 ##Aim
 The aim of this code is to output names or words that are as readable(English) as possible.
