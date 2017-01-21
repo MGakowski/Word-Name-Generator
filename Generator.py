@@ -48,7 +48,7 @@ z = ['a', 'e', 'i', 'n', 'o', 'u', 'y']
 # Main loop
 while True:
 
-    trueRand = str(input("Generate random length? (y/n): "))
+    trueRand = str(raw_input("Generate random length? (y/n): "))
 
     if trueRand in ('y', 'yes', 'Yes', 'Y', 'YES'):
         length = random.randint(4, 8)
